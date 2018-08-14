@@ -1,12 +1,21 @@
-# not impotant folders
-tmp/
-
-# IDE Folders
-.idea/
-
-
-# Byte-compiled / optimized / DLL files
-__pycache__/
+.DS_Store
+.git*
+.hg*
+.idea
 *.py[cod]
 *$py.class
+bower_components
+main/index.yaml
+main/lib
+main/lib.zip
+main/static/dev
+main/static/ext
+main/static/min
+node_modules
+npm-debug.log
+package-lock.json
+yarn-error.log
 
+
+tmp/
+temp/
